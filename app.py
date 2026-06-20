@@ -57,13 +57,10 @@ Welcome!
 
 This AI assistant helps you with:
 
-✅ Resume Review
-
-✅ Interview Preparation
-
-✅ Skill Roadmaps
-
-✅ Career Guidance
+- 📄 Resume Reviews
+- 🎯 Interview Preparation
+- 🗺️ Learning Roadmaps
+- 💼 Career Guidance
 """)
 
 tool = st.sidebar.selectbox(
